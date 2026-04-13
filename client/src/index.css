@@ -4,3 +4,9 @@
 *{
     font-family: "Outfit", sans-serif;
 }
+
+@later base {
+    button {
+        @apply cursor-pointer;
+    }
+}
